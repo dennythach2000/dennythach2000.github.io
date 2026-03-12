@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/fire logo.webp
 title: "DennyT"
-date: 2026
+date: 2026-03-11
 published: false
 labels:
   - Cook
