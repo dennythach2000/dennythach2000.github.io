@@ -1,0 +1,37 @@
+---
+layout: essay
+type: essay
+title: "Project Documentation"
+# All dates must be YYYY-MM-DD format!
+date: 2026/03/11
+published: true
+
+---
+Project Documentation 
+Denny Thach 
+Sullivan University 
+CSC272 
+Prof. Cordle Scott 
+Food Menu 
+The main objective of this website plan is to create a main page and two navigational 
+pages which includes will include the introduction page with information about the menu and 
+few words explaining what it is, a ingredient page explaining exactly what goes on the page, and 
+a page containing nutritional value per serving. 
+The first thing I had to do before anything is watch the same videos repeatedly until I can 
+remember how they wrote each line and what each line consists off. A few websites that explains 
+each code and what they do was a big help for me. I also had retrieved some recipes from other 
+websites, as well as really look into depth on websites and noticed that on every front page there 
+is usually information from introduction, reason why they do what they do, and how it became 
+what it is. With that information I was able to somewhat create my home page. 
+The first step I had done during the start of the actual build was create the home page  
+and then created the two navigational page with the link, but had not known that I needed to 
+create the html first or the link wont take me anywhere but an error screen. Once I figure it out I 
+had created my title, heading, and paragraph for each of the page but just the code, just so I have 
+an structure I wanted. 
+After I had created my pages I noticed how unappealing to the eye it was so I cenetered 
+align all the pages and hoping it will look better, maybe if I gave myself more time I can adding 
+a background color and images to the website. 
+The last page which I had put more effort and wanted to actually make it look a neater 
+was the nutritional page, adding a table would make it look nice but it was a lot harder than I had 
+anticipated. After many research on how people made their table I eventually was able to recreate 
+it and added a background color not to pop but to take a little attention. 
